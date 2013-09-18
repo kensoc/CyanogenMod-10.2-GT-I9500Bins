@@ -11,4 +11,6 @@ This repo contains below:
 
 
 
+Steps to build CyanogenMod-10.2-GT-I9500 Images
+==============================================
 
